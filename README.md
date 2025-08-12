@@ -8,7 +8,6 @@
 
 <h3>➡️ VISTAS PREVIAS:</h3>
 <p>
-  <img src="https://imgur.com/a/i6UawEx.jpeg" alt="Menú" width="350"><br>
   <img src="https://i.imgur.com/glzWfz9.jpeg" alt="Opción 1" width="350"><br>
   <img src="https://i.imgur.com/vrXjDy0.jpeg" alt="Opción 2" width="350"><br>
   <img src="https://i.imgur.com/m3exxCd.jpeg" alt="Opción 3" width="350"><br>
